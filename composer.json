@@ -1,5 +1,5 @@
 {
-    "name": "handcraftedinthealps/goodby-csv",
+    "name": "goodby/csv",
     "description": "CSV import/export library",
     "type": "library",
     "keywords": ["csv", "import", "export"],
