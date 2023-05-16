@@ -52,8 +52,5 @@
             "Goodby\\CSV\\Import\\Tests\\": "src/Goodby/CSV/Import/Tests/",
             "Goodby\\CSV\\TestHelper\\": "src/Goodby/CSV/TestHelper/"
         }
-    },
-    "replace": {
-        "goodby/csv": "self.version"
     }
 }
